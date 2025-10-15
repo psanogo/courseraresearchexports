@@ -1,0 +1,9 @@
+# courseraresearchexports/environment.yml
+name: courseraresearchexports-env
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas
+  - numpy
+  # Add any other dependencies your project needs
